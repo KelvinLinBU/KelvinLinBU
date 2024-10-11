@@ -18,9 +18,15 @@ I am pursuing a **Bachelor’s degree in Computer Science** with a **Business mi
 
 With experience across multiple industries, I’ve worked on projects involving **data pipelines**, **software development**, **predictive modeling**, and **business analytics**. I’ve also held leadership roles where I guided teams through project execution, fostering collaboration and delivering impactful results.
 
+- **Teaching Assistant for CS411**
+   I serve as a TA for CS411, helping students with projects that include Docker orchestration and backend development, and facilitating their understanding of key software engineering principles.
+  
+- **PTC Onshape - Data Engineering Intern**  
+   During my internship at PTC Onshape, I developed a custom **deduplication tool** to manage large datasets effectively. I received strong recommendations and mentorship across departments for my contributions. I collaborated with multiple teams, ranging from the data warehouse, education, marketing to customer success, while navigating the corporate world during this internship.
+
 ## 📝 Writing & Media
 
-I enjoy communicating ideas through writing and have produced various technical articles and blog posts. My experience also includes media production, podcast creation, and contributing to news stories.
+I enjoy communicating ideas through writing and have produced various technical articles and blog posts. You can find my Medium down below. 
 
 ## 📈 Interests & Aspirations
 
