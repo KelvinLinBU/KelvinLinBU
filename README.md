@@ -21,6 +21,9 @@ With experience across multiple industries, I’ve worked on projects involving 
 - **Full Stack Developer at Berkshire Bank**
 I currently work as a Full-Stack Developer at Berkshire Bank. At this role, I create and maintain robust and highly secure data pipelines, data analytic applications for business intelligence, and enterprise-grade software development.
 
+- **Contributing Software Engineer at BU MOC**
+I currently volunteer member at BU's Massachussetts Open Cloud Alliance, a project created in collaboration with RedHat to provide cloud resources to educators and students. Mainly, I contribute to their invoicing and rating financial software. 
+
 - **Technical Analyst at Amica Insurance**
 My first job was as a Technical Analyst at Amica Insurance. While this was an amazing experience, I decided to move on to a different opportunity. 
 
