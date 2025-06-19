@@ -12,17 +12,23 @@ I’m a **Data Engineer** and **Software Developer** with a strong passion for s
 
 ## 🎓 Education
 
-I am pursuing a **Bachelor’s degree in Computer Science** 🎓 with a **Business minor** 🏫 and will graduate early in December 2024. I am passionate about data-driven solutions and committed to continuous learning in emerging technologies.
+I currently hold a **Bachelor’s degree in Computer Science** 🎓 with a **Business minor** 🏫 and graduated early in December 2024. I am passionate about data-driven solutions and committed to continuous learning in emerging technologies.
 
 ## 💼 Experience
 
 With experience across multiple industries, I’ve worked on projects involving **data pipelines** 🔄, **software development** 💻, **predictive modeling** 🔍, and **business analytics** 📊. I’ve also held leadership roles where I guided teams through project execution, fostering collaboration and delivering impactful results.
 
+- **Full Stack Developer at Berkshire Bank**
+I currently work as a Full-Stack Developer at Berkshire Bank. At this role, I create and maintain robust and highly secure data pipelines, data analytic applications for business intelligence, and enterprise-grade software development.
+
+- **Technical Analyst at Amica Insurance**
+My first job was as a Technical Analyst at Amica Insurance. While this was an amazing experience, I decided to move on to a different opportunity. 
+
 - **Teaching Assistant for CS411**  
-   👨‍🏫 I serve as a TA for CS411, helping students with projects that include Docker orchestration and backend development, and facilitating their understanding of key software engineering principles.
+I served as a TA for CS411, helping students with projects that include Docker orchestration and backend development, and facilitating their understanding of key software engineering principles.
 
 - **PTC Onshape - Data Engineering Intern**  
-   🔧 During my internship at PTC Onshape, I developed a custom **deduplication tool** to manage large datasets effectively. I received strong recommendations and mentorship across departments for my contributions. I collaborated with multiple teams, ranging from the data warehouse, education, marketing to customer success, while navigating the corporate world during this internship.
+During my internship at PTC Onshape, I developed a custom **deduplication tool** to manage large datasets effectively. I received strong recommendations and mentorship across departments for my contributions. I collaborated with multiple teams, ranging from the data warehouse, education, marketing to customer success, while navigating the corporate world during this internship.
 
 ## 📝 Writing & Media
 
