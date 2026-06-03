@@ -22,7 +22,7 @@ With experience across multiple industries, I’ve worked on projects involving 
   I create and maintain secure data pipelines, data analytic applications for business intelligence, and enterprise-grade software development.
 
 - **Faculty Research Aide at Harvard University**  
-  Faculty research aide under Professor Jill Slye analyzing research data, creating dashboards, and compiling and synthesizing research to communicate key insights.
+  Faculty research aide under Professor Jill Slye analyzing research data, creating dashboards, and compiling and synthesizing research reports to communicate key insights.
 
 - **Contributing Software Engineer at BU MOC**  
   Volunteer member at BU’s Massachusetts Open Cloud Alliance, a collaboration with Red Hat to provide cloud resources to educators and students. I contribute to their invoicing and rating financial software.
@@ -38,7 +38,7 @@ With experience across multiple industries, I’ve worked on projects involving 
 
 ## My Youtube Channel
 
-In my free time, I record tutorials on topics in data science and software engineering. As of June 2026, I have hundreds of subscribers, fifteen thousand views, and nearly one thousand watch hours. 
+In my free time, I record tutorials on topics in data science and software engineering. As of June 2026, I have hundreds of subscribers, over fifteen thousand views, and nearly one thousand watch hours. 
 
 ## My Writing
 
